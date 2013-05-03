@@ -2,6 +2,16 @@
 
 Bash Automated Testing System ([Bats](https://github.com/sstephenson/bats)) is a test library running in Bash/Shell.
 
+## Usage
+
+All `.bats` files should automatically be assigned the `Bats` language/grammar. Alternately, you can manually change to it using `Shift+Ctrl+Alt+B`.
+
+The following snippets/commands exist:
+
+* `!env` - use at the top of a file to set the environment to `#!/usr/bin/env bats`
+* `test` - inserts a `@test "name" { ... }` test block
+* `line` - inserts a `[ "${lines[0]}" = "something" ]` assertion
+
 ## Installation
 
 To install via Git:

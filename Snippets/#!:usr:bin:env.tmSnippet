@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>#!/usr/bin/env bats</string>
+	<key>name</key>
+	<string>#!/usr/bin/env</string>
+	<key>scope</key>
+	<string>source.shell.bats</string>
+	<key>tabTrigger</key>
+	<string>!env</string>
+	<key>uuid</key>
+	<string>9795E33D-3284-45AE-A6D6-9BAE4CF45A99</string>
+</dict>
+</plist>

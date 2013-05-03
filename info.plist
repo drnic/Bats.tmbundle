@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Bats</string>
+	<key>ordering</key>
+	<array>
+		<string>D001D6FC-04A3-4BB6-9588-A6BCE46DDEDB</string>
+		<string>9795E33D-3284-45AE-A6D6-9BAE4CF45A99</string>
+		<string>3B284EBB-4100-4582-909E-63CE518F3AC8</string>
+		<string>79439AF2-E6B3-4908-8ED5-DA2FA0DA70C9</string>
+	</array>
+	<key>uuid</key>
+	<string>0F522531-49EC-4B7E-AF6B-56D1CC6235D9</string>
+</dict>
+</plist>

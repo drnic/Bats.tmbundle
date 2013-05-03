@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>[ "\${lines[${1:0}]}" = "${2:some value}" ]
+</string>
+	<key>name</key>
+	<string>line</string>
+	<key>scope</key>
+	<string>source.shell.bats</string>
+	<key>tabTrigger</key>
+	<string>line</string>
+	<key>uuid</key>
+	<string>79439AF2-E6B3-4908-8ED5-DA2FA0DA70C9</string>
+</dict>
+</plist>

@@ -1,6 +1,6 @@
 # TextMate bundle for Bats tests.
 
-Bash Automated Testing System ([Bats](https://github.com/sstephenson/bats)) is a test library running in Bash/Shell.
+Bash Automated Testing System ([Bats](https://github.com/sstephenson/bats)) is a test library running in Bash/Shell, created by @sstephenson.
 
 ## Usage
 

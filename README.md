@@ -4,7 +4,7 @@ Bash Automated Testing System ([Bats](https://github.com/sstephenson/bats)) is a
 
 ## Usage
 
-All `.bats` files should automatically be assigned the `Bats` language/grammar. Alternately, you can manually change to it using `Shift+Ctrl+Alt+B`.
+All `.bats` files should automatically be assigned the `Bats` language/grammar. Alternately, you can manually change to it using `⇧^⌥B`.
 
 The following snippets/commands exist:
 
@@ -14,14 +14,14 @@ The following snippets/commands exist:
 
 ## Installation
 
-To install via Git:
+Via Git:
 
     mkdir -p ~/Library/Application\ Support/TextMate/Bundles
     cd ~/Library/Application\ Support/TextMate/Bundles
     git clone https://github.com/drnic/Bats.tmbundle.git
     osascript -e 'tell app "TextMate" to reload bundles'
 
-Source can be viewed or forked via GitHub: [https://github.com/drnic/Bats.tmbundle](https://github.com/drnic/Bats.tmbundle)
+You can view the source (or fork the project) on GitHub: [https://github.com/drnic/Bats.tmbundle](https://github.com/drnic/Bats.tmbundle)
 
 
 ## License
